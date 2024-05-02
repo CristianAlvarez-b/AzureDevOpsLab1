@@ -107,6 +107,15 @@
  ## Task 4:
 
  1. Navegar al Web Delivery Plan
+ 2. Movemos al Sprint 1
 
+![image](https://github.com/CristianAlvarez-b/AzureDevOpsLab1/assets/134233917/aa751e6b-b642-48c6-a086-e0280ab7f44a)
 
- 2. 
+ 3. Agregamos los links
+
+![image](https://github.com/CristianAlvarez-b/AzureDevOpsLab1/assets/134233917/d3eda00b-1d9e-4bd7-8059-678c712795df)
+
+ 4. Movemos el feature al sprint 2 y le damos a detalles de la dependencia, y vemos que ahora hay prooblemas de dependencias
+
+![image](https://github.com/CristianAlvarez-b/AzureDevOpsLab1/assets/134233917/a3f3365b-a856-47aa-a070-52fb5f2c64aa)
+
